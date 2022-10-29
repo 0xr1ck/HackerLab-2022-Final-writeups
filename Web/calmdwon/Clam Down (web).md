@@ -53,7 +53,7 @@ and you can see  its vulnerable to `Path-traversal` but not **RCE** & i had to c
 </p>
 
 run it  ``` python main.py urls.txt ``` and 
-Here is the flag = ```CTF_JU57_C4lm_D0WN_99812843043143```
+Here is the flag = **CTF_JU57_C4lm_D0WN_99812843043143**
 
 <p align="center">
   <img src="https://github.com/0xm1cr0/HackerLab_2022_final/blob/main/Web/calmdwon/imgs/flag_D.png" alt="ST"/>
