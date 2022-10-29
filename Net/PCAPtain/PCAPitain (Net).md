@@ -16,5 +16,7 @@ Our servers have recorded brute force attack activity between 00:00 AM - 02:00 A
  its a PCAP file it gave us time to check i used wireshark to analyzed it but i got an idea or the fastest way is to ```cat traffic1.pcap | grep "CTF_"``` to get the flag but it doesn't work so i had use **strings** to get the flag and it does **flag = CTF_Yu_4r3_s0_l33t1nth3_w1r3!**
  
 ![[flag.png]]
-
+<p align="center">
+  <img src="https://github.com/0xm1cr0/HackerLab_2022_final/blob/main/Net/PCAPtain/img/flag.png" alt="ST"/>
+</p>
 **Flag** = ``` CTF_Yu_4r3_s0_l33t1nth3_w1r3! ``` 
