@@ -1,4 +1,4 @@
-![[PCAPtain.png]]
+
 
 <p align="center">
   <img src="https://github.com/0xm1cr0/HackerLab_2022_final/blob/main/Net/PCAPtain/img/PCAPtain.png" alt="ST"/>
