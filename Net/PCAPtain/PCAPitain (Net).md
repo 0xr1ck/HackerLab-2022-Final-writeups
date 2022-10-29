@@ -18,4 +18,4 @@ Our servers have recorded brute force attack activity between 00:00 AM - 02:00 A
 <p align="center">
   <img src="https://github.com/0xm1cr0/HackerLab_2022_final/blob/main/Net/PCAPtain/img/flag.png" alt="ST"/>
 </p>
-**Flag** = ``` CTF_Yu_4r3_s0_l33t1nth3_w1r3! ``` 
+**Flag** = **CTF_Yu_4r3_s0_l33t1nth3_w1r3!**
